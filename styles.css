@@ -1,0 +1,122 @@
+body{
+   
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    
+}
+
+h1{
+    width:100%;
+    margin: 50 auto 0 auto;
+    font-size: 70px;
+}
+
+h2{
+    font-size: 2rem;
+    font-weight: normal;   
+}
+
+h3{
+    color:#11999E;
+}
+
+.green{
+    color:#66BFBF;
+}
+
+.top-container{
+    position:relative;
+    padding-top: 100px;
+    color: lightgrey;
+}
+
+.top-cloud{
+position: absolute;
+right:300px;
+top:50px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+
+}
+.middle-container{
+    padding:100px;
+}
+.info{
+    width: 30%;
+    margin:auto;
+    line-height: 2;
+    
+}
+.chilli{
+width:150px;
+height:150px;
+float:right;
+margin-left: 20px;
+}
+.computer{
+    width:150px;
+    height:auto;
+    float:left;
+    margin:20px;
+}
+.bottom-container{
+   background-color: #11999E;
+   
+   color:#11999E;
+   padding: 50px 0px 20px;
+   
+}
+.surname{
+    color:#EAF6F6;
+}
+.footer-link{
+    word-spacing: 40px;
+    color:yellowgreen;
+}
+h2{
+    color:#11999E;
+}
+.btn{
+    border:1px solid white;
+    color:white;
+    background-color: #11999E;
+    border-radius: 5px;
+    text-decoration: none;
+
+   
+}
+
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+hr{
+ 
+    border-style: dotted;
+    border-bottom: none;
+    color: red;
+    width:5%;
+    margin: 100px auto;
+    
+}
+.contact-message{
+    width:30%;
+    margin:40px auto 60px;
+}
+a{
+    color:#11999E;
+    margin:10px 20px;
+
+}
+a:hover{
+    color:#EAF6F6;
+}
